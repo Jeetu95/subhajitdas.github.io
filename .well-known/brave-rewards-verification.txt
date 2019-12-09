@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: sdsubhajitdas.github.io
+Token: fd5eee16a33da7f3ab19936e6a29f50b5a1904472d06c531e0f333ebb7d82c68
